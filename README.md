@@ -4,7 +4,8 @@ Welcome to my GitHub profile! I'm based in Cape Town, South Africa, and I'm pass
 
 ## About Me
 
-- 🖥️ I'm currently learning HTML, CSS, and JavaScript.
+- 🖥️ I'm proficient in HTML, CSS, and JavaScript.
+- 📚 Learning: React, AI, ML, IoT
 - 🎮 I'm an avid gamer and enjoy exploring the gaming world (Mostly offline).
 - 🌐 My ultimate goal is to work in the field of artificial intelligence and machine learning.
 
