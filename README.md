@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm based in Cape Town, South Africa, and I'm pass
 - 🖥️ I'm proficient in HTML, CSS, and JavaScript.
 - 📚 Learning: React, AI, ML, IoT
 - 🎮 I'm an avid gamer and enjoy exploring the gaming world (Mostly offline).
-- 🌐 My ultimate goal is to work in the field of artificial intelligence and machine learning.
+- 🤖 My ultimate goal? To contribute to the cutting-edge fields of Artificial Intelligence, Machine Learning, and IoT development. I believe in the power of technology to transform and improve lives.
 
 Feel free to explore my repositories, where you'll find projects related to my interests and learnings.
 
